@@ -1,2 +1,2 @@
 # MyFirstProject
-c'est le dossier racine de mon projet en mode git
+voila ainsi mon repertoire crée comme convenu
